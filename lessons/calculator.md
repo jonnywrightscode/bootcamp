@@ -13,9 +13,9 @@ path: "/calculator"
 
 We are going to rebuild the calculator on iOS! Here it is:
 
-<!-- ![Calculator build in HTML and CSS](./images/calculator.png) -->
+[Calculator build in HTML and CSS](./images/calculator.png)
 
-<iframe class="calc" width="400" height="595" title="Calculator" src="./calculator.html" frameborder="no" allowtransparency="true"></iframe>
+<iframe class="calc" width="400" height="600" title="Calculator" src="../static/calculator.html" frameborder="no" allowtransparency="true"></iframe>
 
 My implementation of it is embedded here on the page so feel free to play with it.
 
